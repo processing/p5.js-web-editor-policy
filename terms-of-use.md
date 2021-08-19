@@ -2,7 +2,7 @@
 
 These terms of use are entered into by and between You and the Processing Foundation ("Processing Foundation," "We," “Our,” or "Us"). The following terms and conditions ("Terms of Use") constitute a contractual agreement (“Agreement”) between You and the Processing Foundation. The Agreement governs access to and use of p5js.org, including any content, functionality, and services offered on or through p5js.org (“p5.js” or "Website"), and applies to anyone who uses the Website (referred to as “Users”, “User”, “You”, or “Your” as applicable).
 
-Please read the Terms of Use carefully before You start to use the Website. By using the Website as a guest or by creating an account and clicking to accept and agree to the Terms of Use when this option is made available to you, You accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, found at https://editor.p5js.org/privacy-policy, incorporated herein by reference. IF YOU DO NOT WANT TO AGREE TO THESE TERMS OF USE OR PRIVACY POLICY, YOU MUST NOT ACCESS OR USE THE WEBSITE. 
+Please read the Terms of Use carefully before You start to use the Website. By using the Website as a guest or by creating an account and clicking to accept and agree to the Terms of Use when this option is made available to you, You accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, found at [https://editor.p5js.org/privacy-policy](https://editor.p5js.org/privacy-policy), incorporated herein by reference. **If you do not want to agree to these Terms of Use or Privacy Policy, you must not access or use the Website**. 
 
 **The Effective Date of this Agreement is February 1, 2021**
 
@@ -74,7 +74,7 @@ By using any of third party integrations, You acknowledge and agree that:
 * The Processing Foundation may transfer necessary data to the providers of those third-party applications;
 * The Processing Foundation shall not be held liable to and shall not accept any liability, obligation or responsibility whatsoever for any loss or damage in connection with the data We provide to such third parties.
 
-USER ACCEPTS AND UNDERSTANDS THIS RISK AND WAIVES ALL RIGHTS TO HOLD THE PROCESSING FOUNDATION RESPONSIBLE IN ANY WAY, FINANCIALLY OR OTHERWISE, FOR THIRD PARTY ERRORS AND RESULTS.
+**User accepts and understands this risk and waives all rights to hold the Processing Foundation responsible in any way, financially or otherwise, for third party errors and results.**
 
 
 ## Accessing the Website and Account Security
@@ -230,11 +230,11 @@ You agree to defend, indemnify, and hold harmless the Processing Foundation, its
 
 ## Limitation on Liability
 
-TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL THE PROCESSING FOUNDATION, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE.
+**To the fullest extent provided by law, in no event will the Processing Foundation, its affiliates, or their licensors, service providers, employees, agents, officers, or directors be liable for damages of any kind, under any legal theory, arising out of or in connection with your use, or inability to use, the website, any websites linked to it, any content on the website or such other websites, including any direct, indirect, special, incidental, consequential, or punitive damages, including but not limited to, personal injury, pain and suffering, emotional distress, loss of revenue, loss of profits, loss of business or anticipated savings, loss of use, loss of goodwill, loss of data, and whether caused by tort (including negligence), breach of contract, or otherwise, even if foreseeable.**
 
 The limitation of liability set out above does not apply to liability resulting from Our gross negligence or willful misconduct.
 
-THE FOREGOING DOES NOT AFFECT ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+**The foregoing does not affect any liability that cannot be excluded or limited under applicable law.**
 
 
 ## Dispute Resolution
@@ -273,7 +273,7 @@ Each party agrees to pay its half of all the applicable filing fees and arbitrat
 
 Nothing in this section shall prevent either party from seeking injunctive or equitable relief from the courts for matters related to intellectual property rights or unauthorized access to the Service.
 
-TO THE EXTENT PERMITTED BY LAW, ALL CLAIMS MUST BE BROUGHT IN THE PARTIES’ INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND, UNLESS THE PARTIES AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS. YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND THE PROCESSING FOUNDATION ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION
+**To the extent permitted by law, all claims must be brought in the parties’ individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding, and, unless the parties agree otherwise, the arbitrator may not consolidate more than one person’s claims. you agree that, by entering into these terms, you and the Processing Foundation are each waiving the right to a trial by jury or to participate in a class action.**
 
 
 ## Waiver and Severability
