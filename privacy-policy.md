@@ -101,8 +101,7 @@ You may update or modify your profile information and contact information at any
 
 ## How We May Use The Information We Collect From You
 
-Although the Processing Foundation may use user information in any way not specifically limited by any governing laws, terms and this Privacy Policy, it is useful to understand how the Processing Foundation typically uses the information collected from users, such as: \
-
+Although the Processing Foundation may use user information in any way not specifically limited by any governing laws, terms and this Privacy Policy, it is useful to understand how the Processing Foundation typically uses the information collected from users, such as: 
 
 
 
